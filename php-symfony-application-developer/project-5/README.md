@@ -31,7 +31,7 @@
 > MAIL_CONTACT="Indicate here the email address that will receive the emails sent from the contact form."
 
 #### Installation
-1. Download the [GitHub repository](https://github.com/Galusss/Blog.git) on the main branch.
+1. Download the GitHub repository on the main branch.
 2. Use the file "db.sql" located at the root of the project to insert data and create your database.
 3. Insert your .env file in the root of the project, the connection information to your database must be correct.
 4. Open a command terminal at the root of the project and use the following commands:\
