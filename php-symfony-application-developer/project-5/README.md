@@ -44,5 +44,5 @@
 --- --- ---
 
 ### Links
-[Website](https://blog.gaelpaquien.com/)\
+[Website](https://formation.blog.gaelpaquien.com/)\
 [Codacy Review](https://app.codacy.com/gh/Galuss1/openclassrooms-blog/dashboard)
